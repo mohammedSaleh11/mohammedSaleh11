@@ -1,7 +1,5 @@
 ## Hey there, I'm Mohammed Saleh! 👋
 
-<!--
-**mohammedSaleh11/mohammedSaleh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a passionate developer who loves creating things with Node.js and Flutter. I’m all about turning complex ideas into simple, effective solutions. Whether it's backend logic or frontend design, I enjoy making apps that people love to use.
 
 💻 Tech I work with: Node.js, Flutter, Express.js, MongoDB, and more!
@@ -9,4 +7,4 @@ I'm a passionate developer who loves creating things with Node.js and Flutter. I
 🌱 Currently learning: How to level up my state management in Flutter.
 👀 Always looking for: Exciting projects to collaborate on and new challenges to tackle.
 🎯 Fun fact: When I’m not coding, I’m probably reading, learning something new, or checking out the latest in tech.
--->
+
