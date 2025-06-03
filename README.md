@@ -4,7 +4,6 @@ I'm a passionate developer who loves creating things with Node.js and Flutter. I
 
 - 💻 Tech I work with: Node.js, Flutter, Express.js, MongoDB, and more!
 - 🚀 What I'm up to: Building cool full-stack projects and exploring new tech.
-- 🌱 Currently learning: How to level up my state management in Flutter.
 - 👀 Always looking for: Exciting projects to collaborate on and new challenges to tackle.
 - 🎯 Fun fact: When I’m not coding, I’m probably reading, learning something new, or checking out the latest in tech.
 
