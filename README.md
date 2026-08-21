@@ -1,14 +1,23 @@
-Hey there, I'm Mohammed Saleh! 👋
+# Mohammed Saleh
 
-I'm a passionate developer who loves building powerful, user-friendly applications. From Flutter frontends to robust backends with Node.js and ASP.NET Core, I enjoy turning complex ideas into clean, efficient solutions.
+**Technical Product Owner & Mobile Engineer** in Dubai.
 
-💻 Tech I work with: Node.js, Flutter, ASP.NET Core, SQL Server, Express.js, MongoDB, and more!
+I turn product problems into shipped mobile apps. I help decide what to build, then I write the Flutter — from the first user story to iOS and Android release.
 
-🚀 What I'm up to: Creating full-stack projects, diving deeper into .NET technologies, and constantly learning.
+**[Portfolio](https://mohsaleh.pages.dev)** · [LinkedIn](https://www.linkedin.com/in/mohammad-saleh-a640a4279/) · [Email](mailto:mohsalehwork@gmail.com)
 
-👀 Always looking for: Exciting projects to collaborate on and meaningful challenges to grow through.
+## What I do
+- Own the product: discovery, backlog, MVP, stakeholders, release
+- Ship the client: Flutter, BLoC / Provider, REST, App Store + Google Play
+- Work against real systems: Odoo, APIs, field ops, two-sided products
 
-🎯 Fun fact: When I’m not coding, I’m probably exploring new tech trends, reading, or experimenting with new frameworks.
+## Selected work
+- **Alsaud** — tenant app for 5,000+ real-estate users
+- **Lezof** — workshop operations for 1,000+ users
+- **Amanah** — cross-border marketplace across 10+ countries
+- **HRMS, AnfCare, Tanker, EuroDoor** — production Flutter products on iOS and Android
 
+## Stack
+Flutter · Dart · Product ownership · Agile / Scrum (PSPO I) · REST · Odoo · Node.js · PostgreSQL
 
-
+If you need someone who can sit with the business, make the calls, and help get a mobile product into production — that’s the work I want.
